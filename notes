@@ -1,0 +1,6 @@
+
+> python -m venv simple_chatbot
+> simple_chatbot\Scripts\activate.bat 
+
+> streamlit run app.py
+> ollama run llama3.1
