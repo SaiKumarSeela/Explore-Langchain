@@ -2,5 +2,12 @@
 > python -m venv simple_chatbot
 > simple_chatbot\Scripts\activate.bat 
 
+> pip install -r requirements.txt
+
+
 > streamlit run app.py
 > ollama run llama3.1
+
+>cd api
+> python app.py
+> streamlit run client.py
