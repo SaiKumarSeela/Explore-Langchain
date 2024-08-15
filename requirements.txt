@@ -7,3 +7,12 @@ langserve
 fastapi
 uvicorn
 sse_starlette
+ipykernel
+bs4
+pypdf
+chromadb
+faiss-cpu
+sentence-transformers
+langchain-huggingface
+torch
+transformers
