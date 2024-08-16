@@ -18,7 +18,7 @@ torch
 transformers
 arxiv
 wikipedia
-langchainhub
-groq
-langchain-groq
 google-generativeai
+langchainhub
+langchain-groq
+groq
