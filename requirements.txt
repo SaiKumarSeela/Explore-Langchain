@@ -21,3 +21,4 @@ wikipedia
 langchainhub
 groq
 langchain-groq
+google-generativeai
