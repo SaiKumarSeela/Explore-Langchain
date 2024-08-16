@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 simple_chatbot/
+explore_lang/
 # C extensions
 *.so
 
