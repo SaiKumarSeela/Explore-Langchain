@@ -16,3 +16,6 @@ sentence-transformers
 langchain-huggingface
 torch
 transformers
+arxiv
+wikipedia
+langchainhub
