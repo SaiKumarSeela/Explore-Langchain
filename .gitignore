@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 simple_chatbot/
 explore_lang/
+langchain_explore/
 # C extensions
 *.so
 
